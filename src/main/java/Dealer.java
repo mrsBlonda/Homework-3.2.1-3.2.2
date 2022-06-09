@@ -17,6 +17,6 @@ public class Dealer {
         return cars;
     }
 
-    //метод продажа машины
+
 
 }
